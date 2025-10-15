@@ -1,4 +1,4 @@
-package me.davidgonzalez.unabshop
+package me.davidgonzalez.unabstore
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
