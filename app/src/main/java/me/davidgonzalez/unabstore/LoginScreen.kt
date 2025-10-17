@@ -129,7 +129,7 @@ fun LoginScreen(onClickRegister : ()->Unit = {}) {
                 Text(
                     loginError,
                     color = Color.Red,
-                    modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp)
+                    modifier = Modifier.fillMaxWidth().padding(bottom = 9.dp)
                 )
             }
 
