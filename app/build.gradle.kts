@@ -67,7 +67,7 @@ dependencies {
     implementation(libs.firebase.bom)
 
     //auth
-    implementation(libs.firebase.auth)
+
 }
 
 
